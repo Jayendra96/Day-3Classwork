@@ -1,0 +1,42 @@
+.main1{
+    width:100%;
+    height: 99.7vh;
+    border: 1px solid black;
+    background: url("https://images.unsplash.com/photo-1604014237800-1c9102c219da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80") no-repeat;
+    background-size: cover;
+    padding: 1px;
+    
+}
+.adjust{
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+.left-Section{
+width: 580px;
+padding: 0 1rem;
+margin-left: 10rem
+}
+.left-Section h1{
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 4rem;
+    text-align: center
+}
+
+.left-Section h1 span{
+
+    color: rgb(190, 18, 60);
+}
+.left-Section p{
+    font-size: 1.35rem;
+    margin: 0.8rem 0;
+    line-height:  2rem;
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    column-gap: 1rem;
+}
+
